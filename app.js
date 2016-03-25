@@ -1,0 +1,5 @@
+var welcomeMassage = "Started app";
+var farewellMessage = "Ending app";
+console.log(welcomeMassage);
+console.log(farewellMessage);
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiYXBwLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLElBQUksY0FBYyxHQUFVLGFBQWEsQ0FBQztBQUMxQyxJQUFJLGVBQWUsR0FBVSxZQUFZLENBQUM7QUFFMUMsT0FBTyxDQUFDLEdBQUcsQ0FBQyxjQUFjLENBQUMsQ0FBQztBQUM1QixPQUFPLENBQUMsR0FBRyxDQUFDLGVBQWUsQ0FBQyxDQUFDIn0=
